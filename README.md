@@ -1,0 +1,2 @@
+# SSA
+Solar Sculpture Application
